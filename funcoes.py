@@ -1,5 +1,6 @@
 import json
 
+# script com um CRUD, bem simples usando toda lógica de programação, para trabalhar com um JSON presente em um arquivo txt.
 
 # Ler todos os valores dentro do json
 def lerJSON(arquivo):
